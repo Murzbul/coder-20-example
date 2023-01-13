@@ -1,0 +1,19 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start1": "node ejemplo_1.js",
+    "start2": "node index_ejercicio.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.4.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
